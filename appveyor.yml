@@ -16,6 +16,7 @@ init:
   - ps: $env:GIT_HASH = $env:APPVEYOR_REPO_COMMIT.Substring(0, 8)
 
 build:
+  project: TSvnPwd.sln
   verbosity: minimal
 
 assembly_info:
