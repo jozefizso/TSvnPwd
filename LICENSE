@@ -1,0 +1,18 @@
+TortoiseSVN Password Decrypter
+
+  This program was cobbled together by Richard Kagerer at Leapbeyond Solutions Inc.
+  It is Copyright (c) 2011 Leapbeyond Solutions Inc.
+
+  Feel free to use the code however you wish.  If modifying the code or
+  using it in your own project, it would be appreciated if you include a
+  reference to the original author in your source code.
+
+
+DpApi.cs
+
+  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+  KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR
+  PURPOSE.
+
+  Copyright (C) 2003 Obviex(TM). All rights reserved.
